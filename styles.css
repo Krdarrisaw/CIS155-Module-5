@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  background-color: #eef5fa;
+  color: #243038;
+}
+
+.highlight {
+  background-color: #ebf527;
+  padding: 2rem;
+  border-left: 0.5em solid #e6d26a;
+  font-weight: 600;
+}
+
+main h2 {
+  font-size: 1.5rem;
+  color: #d6654c;
+  margin-top: 2rem;
+}
